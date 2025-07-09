@@ -52,7 +52,7 @@ Maintain readability and layout integrity on both desktop and mobile.
       <div class="left">
         <div class="image">
           <img
-            src="/sec_logo.png"
+            src="sec_logo.png"
             alt="college-logo"
             height="150px"
             width="700px"
