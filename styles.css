@@ -1,7 +1,7 @@
 .bg-img {
   background-image: url(image.png);
-  background-position: center;
-  background-size: 100%;
+  background-position: left;
+  background-size: 80%;
   height: 98vh;
   margin: 0;
 }
@@ -130,4 +130,11 @@ button {
 .verification {
   font-size: small;
   text-align: center;
+}
+.verification a{
+  color: white;
+  text-decoration: none;
+}
+.verification a:hover{
+  text-decoration: underline ;
 }
